@@ -1,0 +1,7 @@
+ver 0.01            2024:11:5
+
+clean         :       #57d358         
+
+make          :       #78bbb7
+
+support       :       #48a0ff
