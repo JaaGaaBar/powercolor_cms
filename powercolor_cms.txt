@@ -1,7 +1,7 @@
-ver 0.01            2024:11:5
+ver 0.02            2024:11:6
 
-clean         :       #57d358         
+clean         :       #f54896         
 
-make          :       #78bbb7
+make          :       #19a0ff
 
-support       :       #48a0ff
+support       :       #e39294
