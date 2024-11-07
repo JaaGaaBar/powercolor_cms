@@ -1,7 +1,7 @@
 ver 0.02            2024:11:6
 
-clean         :        #f54896         
+clean         :        #dc14ac         
 
-make          :        #19a0ff
+make          :        #e5e6d1
 
-support       :        #e39294
+support       :        #c1fcbf
