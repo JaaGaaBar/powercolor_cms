@@ -1,10 +1,7 @@
-ver 0.07            2024:11:12
+                      2025:1:4
 
-clean         :        #afdc5d         
+clean         :        #7081b3         
 
-make          :        #e9fa46
+make          :        #ae2b76
 
-support       :        #44d8ce
-
-
-         ver name : salamander
+support       :        #ddce50
